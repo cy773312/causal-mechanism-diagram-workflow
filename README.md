@@ -42,6 +42,7 @@ Step 6  终稿说明 + 三个反思           ← workflow/05-reflection-writer.
 ```
 causal-mechanism-diagram-workflow/
 ├── README.md                  # 本文件
+├── AGENTS.md                  # 项目操作指南（学生视角的六步说明）
 ├── skills/                    # AI Skill 原文件（驱动每个步骤的提示词）
 │   ├── causal-mechanism-arrow.md
 │   ├── causal-mechanism-audit.md
