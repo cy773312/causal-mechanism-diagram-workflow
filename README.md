@@ -42,13 +42,19 @@ Step 6  终稿说明 + 三个反思           ← workflow/05-reflection-writer.
 ```
 causal-mechanism-diagram-workflow/
 ├── README.md                  # 本文件
-├── workflow/                  # 六步方法论文档
-│   ├── 00-overview.md         # 工作流总览
-│   ├── 01-arrow-converter.md  # Step 1：文字→箭头
-│   ├── 02-audit.md            # Step 2：机制审计
-│   ├── 03-viz-generator.md    # Step 3：Mermaid 代码生成
-│   ├── 04-graph-audit.md      # Step 4：图形逻辑审查
-│   └── 05-reflection-writer.md # Step 6：终稿说明与反思
+├── skills/                    # AI Skill 原文件（驱动每个步骤的提示词）
+│   ├── causal-mechanism-arrow.md
+│   ├── causal-mechanism-audit.md
+│   ├── causal-mechanism-viz.md
+│   ├── causal-mermaid-graph-audit.md
+│   └── causal-mechanism-reflection-writer.md
+├── workflow/                  # 六步方法论文档（人可读，含理论+步骤+示例）
+│   ├── 00-overview.md
+│   ├── 01-arrow-converter.md
+│   ├── 02-audit.md
+│   ├── 03-viz-generator.md
+│   ├── 04-graph-audit.md
+│   └── 05-reflection-writer.md
 ├── examples/                  # 完整走通案例
 │   └── sanctions-case.md      # 经济制裁与威权政权巩固
 ├── template/                  # 输入模板
@@ -57,6 +63,18 @@ causal-mechanism-diagram-workflow/
     ├── process-record.md      # 过程记录框架
     └── submission-guide.md    # 提交物格式指南
 ```
+
+## 如何阅读本仓库
+
+两条阅读路径，建议交替使用：
+
+**路径A：理解方法论（从 workflow/ 开始）**
+从 [workflow/00-overview.md](./workflow/00-overview.md) 进入，按"下一步"顺序阅读每步的方法论说明。每份文档底部有导航栏。
+
+**路径B：查看 AI 提示词（从 skills/ 开始）**
+每步方法论文档顶部有链接指向对应的 AI Skill 原文件。Skill 文件包含完整的提示词、触发条件和输出模板——这是你在过程记录中需要展示的"AI 提示词"证据。
+
+**并行阅读**：每读完一步的方法论文档，点击"查看 AI Skill"链接阅读对应的 skill 原文件，看到提示词如何转化为操作。
 
 ## 适用场景
 

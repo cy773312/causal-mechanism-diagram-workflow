@@ -1,4 +1,4 @@
-[← 工作流总览](./00-overview.md) • [下一步：因果机制审计 →](./02-audit.md)
+[← 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mechanism-arrow.md) • [下一步：因果机制审计 →](./02-audit.md)
 
 ---
 
@@ -174,5 +174,6 @@ XM（宏观原因）→ Xm（微观条件）→ Ym（微观行动）→ YM（宏
 ## 导航
 
 - [← 工作流总览](./00-overview.md)
+- [查看 AI Skill →](../skills/causal-mechanism-arrow.md)
 - [下一步：因果机制审计 →](./02-audit.md)
 - [返回 README](../README.md)

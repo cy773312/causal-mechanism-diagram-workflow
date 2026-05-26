@@ -1,4 +1,4 @@
-[← 上一步：箭头转化](./01-arrow-converter.md) • [↑ 工作流总览](./00-overview.md) • [下一步：Mermaid 初稿 →](./03-viz-generator.md)
+[← 上一步：箭头转化](./01-arrow-converter.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mechanism-audit.md) • [下一步：Mermaid 初稿 →](./03-viz-generator.md)
 
 ---
 
@@ -424,5 +424,6 @@
 
 - [← 上一步：箭头转化](./01-arrow-converter.md)
 - [↑ 工作流总览](./00-overview.md)
+- [查看 AI Skill →](../skills/causal-mechanism-audit.md)
 - [下一步：Mermaid 初稿 →](./03-viz-generator.md)
 - [返回 README](../README.md)

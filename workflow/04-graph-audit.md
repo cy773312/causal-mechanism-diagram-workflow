@@ -1,4 +1,4 @@
-[← 上一步：Mermaid 初稿](./03-viz-generator.md) • [↑ 工作流总览](./00-overview.md) • [下一步：人工修改终稿 →](./05-reflection-writer.md)
+[← 上一步：Mermaid 初稿](./03-viz-generator.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mermaid-graph-audit.md) • [下一步：人工修改终稿 →](./05-reflection-writer.md)
 
 ---
 
@@ -243,4 +243,4 @@ graph LR
 
 ## 导航
 
-[← 上一步：Mermaid 初稿](./03-viz-generator.md) • [↑ 工作流总览](./00-overview.md) • [下一步：人工修改终稿 →](./05-reflection-writer.md) • [返回 README](../README.md)
+[← 上一步：Mermaid 初稿](./03-viz-generator.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mermaid-graph-audit.md) • [下一步：人工修改终稿 →](./05-reflection-writer.md) • [返回 README](../README.md)

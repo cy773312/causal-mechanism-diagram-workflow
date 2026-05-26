@@ -1,4 +1,4 @@
-[← 上一步：因果审计](./02-audit.md) • [↑ 工作流总览](./00-overview.md) • [下一步：图形审查 →](./04-graph-audit.md)
+[← 上一步：因果审计](./02-audit.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mechanism-viz.md) • [下一步：图形审查 →](./04-graph-audit.md)
 
 ---
 
@@ -321,4 +321,4 @@ graph LR
 
 ## 导航
 
-[← 上一步：因果审计](./02-audit.md) • [↑ 工作流总览](./00-overview.md) • [下一步：图形审查 →](./04-graph-audit.md) • [返回 README](../README.md)
+[← 上一步：因果审计](./02-audit.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mechanism-viz.md) • [下一步：图形审查 →](./04-graph-audit.md) • [返回 README](../README.md)

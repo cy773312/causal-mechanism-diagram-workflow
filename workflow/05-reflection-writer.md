@@ -1,4 +1,4 @@
-[← 上一步：图形审查](./04-graph-audit.md) • [↑ 工作流总览](./00-overview.md) • [返回 README](../README.md)
+[← 上一步：图形审查](./04-graph-audit.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mechanism-reflection-writer.md) • [返回 README](../README.md)
 
 ---
 
@@ -285,4 +285,4 @@ X → M1 → M2 → Y
 
 ## 导航
 
-[← 上一步：图形审查](./04-graph-audit.md) • [↑ 工作流总览](./00-overview.md) • [返回 README](../README.md)
+[← 上一步：图形审查](./04-graph-audit.md) • [↑ 工作流总览](./00-overview.md) • [查看 AI Skill →](../skills/causal-mechanism-reflection-writer.md) • [返回 README](../README.md)
